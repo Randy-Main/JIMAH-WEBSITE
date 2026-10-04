@@ -590,7 +590,7 @@ if (sendWhatsApp) {
              * 254722720824
              */
 
-            const whatsappNumber = "+254725702181";
+            const whatsappNumber = "+254722720824";
 
             const whatsappURL =
                 "https://wa.me/" +
